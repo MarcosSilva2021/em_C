@@ -1,0 +1,15 @@
+Fisica: 10.00								
+Fisica: 9.00								
+Fisica: 8.00								
+Fisica: 7.00								10
+Fisica: 6.00								9
+Fisica: 5.00								8
+Media final: 7.50								7
+								6
+Fisica:	 10.00							5
+Fisica:	 9.00							7,5
+Fisica:	 8.00							
+Fisica:	 7.00							
+Fisica:	 6.00							
+Fisica:	 5.00							
+Media final: 7.50								

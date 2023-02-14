@@ -1,0 +1,41 @@
+Fisica: 2.00
+Fisica: 3.00
+Fisica: 4.00
+Fisica: 5.00
+Fisica: 6.00
+Fisica: 7.00
+Fisica: 10.00
+Fisica: 9.00
+Fisica: 8.00
+Fisica: 7.00
+Fisica: 6.00
+Fisica: 5.00
+Fisica: 2.00
+	Fisica: 3.00
+	Fisica: 4.00
+	Fisica: 5.00
+	Fisica: 98.00
+	Fisica: 5.00
+	Fisica: 2.00
+	Fisica: 6.00
+	Fisica: 7.00
+	Fisica: 8.00
+	Fisica: 9.00
+	Fisica: 4.00
+	Media final: 12.00
+
+Fisica: 1.00
+	Fisica: 2.00
+	Fisica: 4.00
+	Fisica: 5.00
+	Fisica: 6.00
+	Fisica: 7.00
+	Media final: 8.33
+
+Fisica: 10.00
+Fisica: 5.00
+Fisica: 6.00
+Fisica: 7.00
+Fisica: 8.00
+Fisica: 9.00
+Media final: 7.50
